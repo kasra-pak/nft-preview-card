@@ -44,7 +44,7 @@ img {
 }
 
 .img:hover::after {
-  content: url('/images/icon-view.svg');
+  content: url('./images/icon-view.svg');
   background-color: hsla(178, 100%, 50%, 50%);
   inset: 0;
   display: flex;
@@ -78,7 +78,7 @@ img {
 }
 
 .remaining-time::before {
-  content: url('/images/icon-clock.svg');
+  content: url('./images/icon-clock.svg');
   position: absolute;
   top: 2px;
   left: -25px;
@@ -92,7 +92,7 @@ img {
 }
 
 .quantity::before {
-  content: url('/images/icon-ethereum.svg');
+  content: url('./images/icon-ethereum.svg');
   position: absolute;
   top: 3px;
   left: -17px;
