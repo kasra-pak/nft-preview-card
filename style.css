@@ -121,7 +121,7 @@ img {
 }
 
 .avatar {
-  border: 2px solid var(--white);
+  border: 1px solid var(--white);
   border-radius: 50%;
   width: 30px;
 }
